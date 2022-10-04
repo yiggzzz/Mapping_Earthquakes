@@ -32,11 +32,11 @@ Add an overlay to allow the user to toggle off and on the earthquake and tectoni
 * Color coded earthquakes based on magnitude.
 * Features magnitude and location popups and also a legend describing magnitude by intensity.
 
-![SimpleMap](pics/SimpleMapEarthquake_satellite2_past7days.jpg)
+![Earthquake_satellite_past7days](pics/Earthquake_satellite_past7days.jpg)
 
 * Map - Streets Tectonic Plates
 
-![SimpleMap](pics/streets_tectonic_plates.jpg)
+![streets_tectonic_plates](pics/streets_tectonic_plates.jpg)
 
 
 ### Things I Learned
@@ -50,6 +50,3 @@ Add an overlay to allow the user to toggle off and on the earthquake and tectoni
 
 ### Software/Tools
 JavaScript, Leaflet.js Application Programming Interface (API), URL, D3 Library
-
-### Live Demo
-View a Live Demo here: https://yiggzzz.github.io/Mapping_Earthquakes
